@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const { estreno } = require("./estreno");
+const { estreno } = require("./estrenos");
 
 const app = express();
 const puerto = 2006;
